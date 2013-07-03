@@ -1,0 +1,7 @@
+This is a directory containing IDE settings for pycharm that you can use in your inasafe repo.
+
+Check it out into the top level of your inasafe directory like this:
+
+git clone https://github.com/timlinux/inasafe-idea .idea
+
+Tim Sutton, July 2013
