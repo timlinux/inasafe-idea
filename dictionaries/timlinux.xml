@@ -1,11 +1,39 @@
 <component name="ProjectDictionaryState">
   <dictionary name="timlinux">
     <words>
+      <w>adjoint</w>
+      <w>aifdr</w>
       <w>aifdrr</w>
+      <w>berapi</w>
       <w>bnpb</w>
+      <w>chown</w>
+      <w>dissite</w>
+      <w>ensite</w>
+      <w>fabgis</w>
+      <w>gettext</w>
+      <w>github</w>
+      <w>gunung</w>
       <w>inasafe</w>
+      <w>jenkinsci</w>
+      <w>kabupaten</w>
+      <w>letusan</w>
+      <w>libapache</w>
+      <w>linfiniti</w>
+      <w>mkdir</w>
+      <w>nogroup</w>
+      <w>pylint</w>
       <w>qgis</w>
+      <w>qgszonalstatistics</w>
       <w>reproject</w>
+      <w>scanline</w>
+      <w>singlepart</w>
+      <w>struct</w>
+      <w>templ</w>
+      <w>whoami</w>
+      <w>wsgi</w>
+      <w>xargs</w>
+      <w>xsize</w>
+      <w>xvfb</w>
     </words>
   </dictionary>
 </component>
